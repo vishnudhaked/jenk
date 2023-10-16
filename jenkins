@@ -1,0 +1,4 @@
+touch f1.txt
+ls
+pwd 
+mkdir d1
